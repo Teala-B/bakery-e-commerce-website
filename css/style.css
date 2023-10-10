@@ -3,6 +3,20 @@
 
 }
 .background-color {
-    background-color: rgb(240, 218, 200);
+    background-color: rgb(255, 240, 240);
 }
-
+.main {
+    
+    border-radius: 5px;
+    object-fit: cover;
+    border: 5px;
+    border-style: solid;
+    border-color: sienna;
+    width: 60%;
+}
+  .head {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    
+  }
