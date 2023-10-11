@@ -14,8 +14,12 @@
     border-color: sienna;
     width: 75%;
 }
-  .head {
+.head {
     display: flex;
     justify-content: center;
     margin-top: 5px;
   }
+.login {
+    display: flex;
+  
+}
