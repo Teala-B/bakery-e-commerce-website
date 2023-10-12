@@ -23,6 +23,9 @@
     display: flex;
     justify-content: center;
     margin-top: 25px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: sienna;
 }
 .pi {
     display: flex;
@@ -35,4 +38,20 @@
 .sign {
     display: flex;
     justify-content: center;
+}
+.carousel-item {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
+}
+.slide {
+    width: 1400px;
+}
+h1 {
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    color: sienna;
+    font-weight: bold;
 }
