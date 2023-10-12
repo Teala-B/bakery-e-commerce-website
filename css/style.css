@@ -19,3 +19,12 @@
     justify-content: center;
     margin-top: 5px;
   }
+.stand {
+    display: flex;
+    justify-content: center;
+}
+.pi {
+    display: flex;
+    box-align: center;
+    flex-wrap: wrap;
+}
