@@ -19,11 +19,12 @@
     justify-content: center;
     margin-top: 5px;
   }
-.title {
+.stand {
     display: flex;
     justify-content: center;
-    margin-top: 70px;
 }
-.timg{
-    max-height: 50px;
+.pi {
+    display: flex;
+    box-align: center;
+    flex-wrap: wrap;
 }
