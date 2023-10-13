@@ -44,13 +44,14 @@
 }
 .slide {
     width: 1400px;
+    border-radius: 10px;
 }
 h1 {
     font-style: italic;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
 }
-h3{
+h2 {
     font-family: 'Courier New', Courier, monospace;
     color: sienna;
     font-weight: bold;
