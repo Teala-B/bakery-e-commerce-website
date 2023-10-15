@@ -57,3 +57,14 @@ Each drink card displays:
 
 ## Ckeckout Page
 ***
+The checkout page contains a simple form that requires users to input their information in order to make a purchase.
+
+![Alt text](images/checkout-1.JPG)
+
+![Alt text](images/checkout-2.JPG)
+_Users payment method is also requires so there is an area for it._
+
+The products in the users cart are shown at the bottom of the page. 
+
+![Alt text](images/cart.JPG)
+_The price of each item and their calculated total is also shown._
