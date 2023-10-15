@@ -24,7 +24,9 @@ The next page is the login that contains a simple login form
 _The end of the page contains a link that leads to the registration form._
 
 ## Registration Page
+Next is the registration page that allows new users to create an account.
 
+![Alt text](images/registration.JPG)
 
 ## Sweets Page
 
