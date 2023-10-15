@@ -41,7 +41,7 @@ Each sweet dispalys:
 -A small description
 -The variations
 
-![Alt text](images/sweets.JPG)
+![Products (sweets)](images/sweets.JPG)
 
 ## Drinks Page
 ***
@@ -53,18 +53,18 @@ Each drink card displays:
 -A small description
 -The variations
 
-![Alt text](images/drinks.JPG)
+![Products (drinks)](images/drinks.JPG)
 
 ## Ckeckout Page
 ***
 The checkout page contains a simple form that requires users to input their information in order to make a purchase.
 
-![Alt text](images/checkout-1.JPG)
+![Checkout Form](images/checkout-1.JPG)
 
-![Alt text](images/checkout-2.JPG)
+![Payment Form](images/checkout-2.JPG)
 _Users payment method is also requires so there is an area for it._
 
 The products in the users cart are shown at the bottom of the page. 
 
-![Alt text](images/cart.JPG)
+![Checkout Cart](images/cart.JPG)
 _The price of each item and their calculated total is also shown._
