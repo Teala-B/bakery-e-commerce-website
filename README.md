@@ -43,3 +43,17 @@ Each sweet dispalys:
 
 ![Alt text](images/sweets.JPG)
 
+## Drinks Page
+***
+Similar to the sweets page the drinks page shows the different drinks offers bt the buisness.
+
+Each drink card displays:
+-The item
+-An image
+-A small description
+-The variations
+
+![Alt text](images/drinks.JPG)
+
+## Ckeckout Page
+***
