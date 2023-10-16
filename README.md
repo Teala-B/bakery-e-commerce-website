@@ -14,6 +14,16 @@ For added visual appeal there is a carousel containing four images.
 ![Bakery](images/carousel-1.JPG)
 _There are arrows on **BOTH** sides of the images and a selction bar at the bottom to help navigate through pictures._
 
+Creating the carousel was a very thought provoking but fufilling experience.
+-First was specifying a carousel class then creating the slides for the carosel.
+
+![Alt text](images/carouselbutton.JPG)
+_Must be repeted for **EACH** new slide_
+
+-Next was adding the image and/or text to each slide.
+![Alt text](images/carouselimageJPG.JPG)
+_Images should be about the same size to insure the carousel functions smoothly_
+
 The bottom simply contains text about the website/business and what is offered there.
 
 ![Text](images/home.JPG)
